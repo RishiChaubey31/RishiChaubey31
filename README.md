@@ -25,14 +25,13 @@
 # 🏆 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rishi_chaubey?theme=dark&font=Noto%20Sans&ext=heatmap)
 
-# 🎯 Coding Activity:
-[![Rishi's Coding Activity](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_ID)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RishiChaubey31&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Snake animation -->
-![Snake animation](https://github.com/RishiChaubey31/RishiChaubey31/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <!-- Profile Trophy -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=RishiChaubey31&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
