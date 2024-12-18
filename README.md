@@ -1,52 +1,70 @@
-# 💫 About Me:
+# 💫 About Me: Hii <img src="https://github.com/user-attachments/assets/bf98246a-4dd5-4c28-8b20-38ffafe45331" alt="CuteCatGIF" width="30" height="30"/> , I'm Rishi a web developer from India
+
+
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Coding" width="400" height="230"/>
-🔭 I'm currently working on React, Typescript, NodeJS, MongoDB and FireStore.<br>
-🌱 I'm currently learning AWS.<br>
-💬 Ask me about Web Development<br>
-⚡ Fun Fact: I have a knack for learning system designs and love exploring how complex systems work behind the scenes!
 
- 
-
-<!-- Display a random programming quote -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3BADF7&random=false&width=435&lines=Full+Stack+Developer;System+Design+Enthusiast;Always+Learning+New+Technologies)
+🔭 Currently working on **React, TypeScript, NodeJS, MongoDB, and Firestore.**  
+🌱 Exploring **AWS Cloud Solutions**  
+💬 Ask me about **Full-Stack Development and System Design.**  
+⚡ Fun Fact: I'm fascinated by **how scalable systems function behind the scenes!**
 
 
 
-
-
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cenation_rishi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishichaubey3105)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cenation_rishi)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rishichaubey31)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@RishiChaubey)
-
-[![](https://visitcount.itsvg.in/api?id=RishiChaubey31&icon=10&color=8)](https://visitcount.itsvg.in)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RishiChaubey31&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RishiChaubey31&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RishiChaubey31&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-# 🏆 LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/rishi_chaubey?theme=dark&font=Noto%20Sans&ext=heatmap)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DC6F&width=500&lines=Full+Stack+Developer+%7C+MERN+Specialist;Passionate+about+Scalable+Systems;Always+Learning+New+Technologies)
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RishiChaubey31&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 🌐 Connect with Me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cenation_rishi) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishichaubey3105) 
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/cenation_rishi) 
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@RishiChaubey)
 
-
-
-
-
+![](https://visitcount.itsvg.in/api?id=RishiChaubey31&icon=7&color=12)
 
 ---
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/C-%23007ACC.svg?style=for-the-badge&logo=c&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) 
+![NodeJS](https://img.shields.io/badge/NodeJS-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-%23FFA611.svg?style=for-the-badge&logo=firebase&logoColor=black) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-%2300A9E0.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
 
+# 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RishiChaubey31&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishiChaubey31&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
+</div>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiChaubey31&layout=compact&theme=radical&hide_border=true" width="48%" alt="Languages">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+# 🏆 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/rishi_chaubey?theme=dark&font=Fira%20Code&ext=heatmap)
+
+---
+
+### 🔝 Top Contributed Repo:
+![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=RishiChaubey31&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+
+### 🚀 Fun Badge:
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=RishiChaubey31&theme=monokai&row=1)
+
+---
+
+*Designed with ❤️ by Rishi 🚀
