@@ -7,9 +7,6 @@
 🌱 Exploring **AWS Cloud Solutions**  
 💬 Ask me about **Full-Stack Development and System Design.**  
 ⚡ Fun Fact: I'm fascinated by **how scalable systems function behind the scenes!**
-
-
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DC6F&width=500&lines=Full+Stack+Developer+%7C+MERN+Specialist;Passionate+about+Scalable+Systems;Always+Learning+New+Technologies)
 
 
