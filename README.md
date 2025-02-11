@@ -17,7 +17,8 @@
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/cenation_rishi) 
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@RishiChaubey)
 
-![](https://visitcount.itsvg.in/api?id=RishiChaubey31&icon=7&color=12)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=RishiChaubey31)
+
 
 ---
 
