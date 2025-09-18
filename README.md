@@ -20,7 +20,7 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=RishiChaubey31)
 
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%23007ACC.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -38,7 +38,13 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300A9E0.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RishiChaubey31&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -48,21 +54,21 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiChaubey31&layout=compact&theme=radical&hide_border=true" width="48%" alt="Languages">
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # 🏆 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rishi_chaubey?theme=dark&font=Fira%20Code&ext=heatmap)
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 🔝 Top Contributed Repo:
 ![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=RishiChaubey31&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 🚀 Fun Badge:
 ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=RishiChaubey31&theme=monokai&row=1)
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 *Designed with ❤️ by Rishi 🚀
