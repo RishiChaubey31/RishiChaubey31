@@ -3,11 +3,13 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding" width="400" height="230"/>
 
-🔭 Currently working on **React, TypeScript, NodeJS, MongoDB, and Firestore.**  
-🌱 Exploring **AWS Cloud Solutions**  
-💬 Ask me about **Full-Stack Development and System Design.**  
+🔭 Mostly worked with **React, Next.js, JavaScript, and TypeScript**  
+🌱 Currently exploring the backend side with **Node.js**  
+🤖 I also work with **AI agents** like **Cursor, Claude, and Gemini**  
+💬 Always open to discussions about **web development and scalable architectures**  
 ⚡ Fun Fact: I'm fascinated by **how scalable systems function behind the scenes!**
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DC6F&width=500&lines=Full+Stack+Developer+%7C+MERN+Specialist;Passionate+about+Scalable+Systems;Always+Learning+New+Technologies)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DC6F&width=500&lines=Full+Stack+Developer+%7C+;Enthusiastic+about+Scalable+Systems;Always+Learning+New+Technologies)
 
 
 
